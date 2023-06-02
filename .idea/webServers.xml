@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d567549b-99b1-4dba-81e4-494e923b8cdf" name="springmvc" url="http://localhost8080:/">
+        <fileTransfer mountedRoot="C:\Users\Sirojiddin\Desktop\apache-tomcat-10.1.7" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
