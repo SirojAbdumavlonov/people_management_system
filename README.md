@@ -1,1 +1,5 @@
-Management system of people using Spring MVC and Thymeleaf with HTML/CSS for frontend.
+Application provides a table where admin could manage data of people added to there.
+Main functions:
+1.Add user details
+2.Update
+3.Delete
